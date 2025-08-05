@@ -1,0 +1,122 @@
+[
+  {
+    "name": "ChatGPT",
+    "description": "AI chatbot that answers your questions.",
+    "link": "https://chat.openai.com/",
+    "logo": "/assets/images/chatgpt.png"
+  },
+  {
+    "name": "Pika Labs",
+    "description": "AI video generator from text prompts.",
+    "link": "https://www.pika.art/",
+    "logo": "/assets/images/pika.png"
+  },
+  {
+    "name": "Synthesia",
+    "description": "AI video avatars that speak your text.",
+    "link": "https://www.synthesia.io/",
+    "logo": "/assets/images/synthesia.png"
+  },
+  {
+    "name": "ElevenLabs",
+    "description": "Most realistic AI voice generator.",
+    "link": "https://www.elevenlabs.io/",
+    "logo": "/assets/images/elevenlabs.png"
+  },
+  {
+    "name": "D-ID",
+    "description": "Talking photo and face animation AI.",
+    "link": "https://www.d-id.com/",
+    "logo": "/assets/images/did.png"
+  },
+  {
+    "name": "HeyGen",
+    "description": "AI presenter avatars for videos.",
+    "link": "https://www.heygen.com/",
+    "logo": "/assets/images/heygen.png"
+  },
+  {
+    "name": "Leonardo AI",
+    "description": "High-quality AI art & game assets generator.",
+    "link": "https://app.leonardo.ai/",
+    "logo": "/assets/images/leonardo.png"
+  },
+  {
+    "name": "Runway ML",
+    "description": "Text to video and AI editing tools.",
+    "link": "https://runwayml.com/",
+    "logo": "/assets/images/runway.png"
+  },
+  {
+    "name": "Murf AI",
+    "description": "Studio-quality AI voiceover tool.",
+    "link": "https://murf.ai/",
+    "logo": "/assets/images/murf.png"
+  },
+  {
+    "name": "Voicemod",
+    "description": "Live voice changer and AI effects.",
+    "link": "https://www.voicemod.net/",
+    "logo": "/assets/images/voicemod.png"
+  },
+  {
+    "name": "Canva AI",
+    "description": "Design tool with Magic Write & AI images.",
+    "link": "https://www.canva.com/",
+    "logo": "/assets/images/canva.png"
+  },
+  {
+    "name": "Remove.bg",
+    "description": "AI background remover for images.",
+    "link": "https://www.remove.bg/",
+    "logo": "/assets/images/removebg.png"
+  },
+  {
+    "name": "Cleanup.pictures",
+    "description": "Remove unwanted objects from images.",
+    "link": "https://cleanup.pictures/",
+    "logo": "/assets/images/cleanup.png"
+  },
+  {
+    "name": "DeepL",
+    "description": "Accurate AI language translator.",
+    "link": "https://www.deepl.com/",
+    "logo": "/assets/images/deepl.png"
+  },
+  {
+    "name": "Lumen5",
+    "description": "Convert blogs to videos with AI.",
+    "link": "https://www.lumen5.com/",
+    "logo": "/assets/images/lumen5.png"
+  },
+  {
+    "name": "Tome AI",
+    "description": "Create presentations using AI.",
+    "link": "https://tome.app/",
+    "logo": "/assets/images/tome.png"
+  },
+  {
+    "name": "Copy.ai",
+    "description": "Generate marketing content using AI.",
+    "link": "https://www.copy.ai/",
+    "logo": "/assets/images/copyai.png"
+  },
+  {
+    "name": "Jasper",
+    "description": "AI content & copywriting assistant.",
+    "link": "https://www.jasper.ai/",
+    "logo": "/assets/images/jasper.png"
+  },
+  {
+    "name": "LALAL.AI",
+    "description": "Remove vocals from music using AI.",
+    "link": "https://www.lalal.ai/",
+    "logo": "/assets/images/lalal.png"
+  },
+  {
+    "name": "Kaiber",
+    "description": "AI video effects and transformation.",
+    "link": "https://kaiber.ai/",
+    "logo": "/assets/images/kaiber.png"
+  }
+]

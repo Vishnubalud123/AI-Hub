@@ -1,0 +1,1 @@
+body { font-family: sans-serif; margin: 0; padding: 0; } .navbar, .footer { background: #111; color: white; padding: 1rem; text-align: center; } .tool-container { display: flex; flex-wrap: wrap; gap: 1rem; padding: 2rem; } .tool-card { border: 1px solid #ccc; padding: 1rem; width: 250px; border-radius: 10px; } .tool-card img { width: 100px; height: 100px; object-fit: contain; }
